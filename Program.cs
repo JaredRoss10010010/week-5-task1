@@ -9,11 +9,15 @@ namespace week5
 
             Console.WriteLine("Hello World hope this works");
         }
+        static void draw(string[] args)
+        {
+            
+        }
     }
 
     class rectangle
     {
-        
+
     }
     class circle
     {
